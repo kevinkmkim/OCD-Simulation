@@ -25,3 +25,19 @@ The player is placed in a room with four pairs of shoes scattered on the floor.
 ![School Bus](https://user-images.githubusercontent.com/64315595/188680610-80d144de-88b0-484c-bc58-313fffeab8f3.gif)
 
 ### Voice-Over
+
+## 3D Model References
+- Oculus hands: https://developer.oculus.com/downloads/package/oculus-hand-models/
+- Room: https://www.cgtrader.com/3d-models/architectural/decoration/child-room-94609256-c600-4760-b853-384df18ef249
+- Doorknob: https://www.turbosquid.com/3d-models/3d-handle-interior-door-1496871
+- House: 
+  - https://sketchfab.com/3d-models/old-suburban-bungalow-flip-7c664ba237f54518849dcdb05ef7cc0b
+  - https://sketchfab.com/3d-models/suburban-hoarder-flip-117081fdcd6e4804bf1e4c2bf291b3e9
+- Shoes:
+  - https://www.turbosquid.com/3d-models/ria-menorca-sandals-shoes-model-1307084
+  - https://www.turbosquid.com/3d-models/women-loafers-3d-model-1198655
+  - https://www.cadnav.com/3d-models/model-21632.html
+  - https://www.turbosquid.com/3d-models/maya-slipper/522789
+  - https://www.turbosquid.com/3d-models/3d-house-slippers-zapatillas-casa-1440785
+  - https://www.turbosquid.com/3d-models/sneakers-3d-model/527642
+- School bus: https://sketchfab.com/3d-models/school-bus-conversion-21b7e85f54024a6888bb168f21bbb2e1
